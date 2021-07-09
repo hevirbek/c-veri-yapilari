@@ -1,0 +1,1 @@
+# c-veri-yapilari
